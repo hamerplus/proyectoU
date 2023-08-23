@@ -2,17 +2,17 @@ img{
     width: 500px;}
 
 html {
-    front-size: 10px;
+    font-size: 10px;
      front-family:"open sans", sans-serif;}
     
     
 h1{
-    front-size: 60px
+    font-size: 60px
     text-align: center;
 }
 
 p, li {
-    front-size: 16px;
+    font-size: 16px;
     text-align: center;
     letter-spacing: 1px;
 }
