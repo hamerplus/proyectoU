@@ -1,2 +1,32 @@
 img{
     width: 500px;}
+
+html {
+    front-size: 10px;
+     front-family:"open sans", sans-serif;}
+    
+    
+h1{
+    front-size: 60px
+    text-align: center;
+}
+
+p, li {
+    front-size: 16px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+
+html{
+    background-color: darkorange;
+}
+
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: burlywood;
+    padding: 0 20px 20px 20px;
+    border: 5px solid yellow;
+}
